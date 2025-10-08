@@ -66,9 +66,11 @@ If you use these simulation files, please cite:
   note = {(to be updated with volume/page upon publication)}
 }
 
-📧 Contact
+## 📧 Contact
 For questions or issues, please contact:
 
 Corresponding Author: S-H. Kwon (shkwon@cau.ac.kr)
 First Author: S. H. Hong (seunghyeon.hong95@gmail.com)
 
+## 📄 License
+MIT License 
